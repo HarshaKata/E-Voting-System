@@ -6,21 +6,11 @@ Blockchain based E-Voting System
 
 ## Project Report
 
-### Fall Semester 2020
-
-| Course Code |         Course Name         | Slot |
-|:-----------:|:---------------------------:|:----:|
-|  `BCI3004`  | Security of E-Based Systems |  F1  |
-
-### Under Guidance 0f
-
-## Ananda Kumar S Sir (SCOPE) 
-
 ### Teammates
 
 - Swarag Narayanasetty (18BCI0154)
-- P. Sai Rama Reddy (18BCI0119)
-- Koka Vyshnav (18BCI0135)
+- Kata Sri Harsha (18BCI0127)
+- S Harshith (18BCI0099)
 
 ---
 
